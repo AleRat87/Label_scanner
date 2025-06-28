@@ -1,5 +1,7 @@
 # Label scanner
 
+APLICAȚIE MOBILĂ PENTRU VERIFICAREA INTERACȚIUNILOR ÎNTRE MEDICAMENTE ȘI ALIMENTE
+
 Această aplicație Flutter permite scanarea etichetelor alimentare folosind camera telefonului, extrage automat textul folosind OCR, identifică ingredientele și le compară cu o listă de medicamente introduse de utilizator, afișând potențiale interacțiuni aliment–medicament.
 
 ## Cerințe preliminare
